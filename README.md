@@ -12,6 +12,6 @@ My first coding chalenge. Even if it wasn't difficult, i'm happy that i did some
 
 ### Screenshot
 
-### Linj
+### Link
 
 https://antoinereibel.github.io/QR-challenge-/
